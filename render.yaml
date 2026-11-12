@@ -1,6 +1,6 @@
 services:
   - type: web
-    name: fixmyrak-ai
+    name: fixmyuae-ai
     runtime: node
     plan: free
     buildCommand: bun install && bun run build
